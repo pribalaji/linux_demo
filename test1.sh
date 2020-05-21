@@ -1,2 +1,2 @@
-uname -n
+uname -n  >> /tmp/balaji
 
