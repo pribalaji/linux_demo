@@ -5,4 +5,7 @@ else
 echo "false"
 fi
 
+a=`uname -n`
+echo $a
+
 
